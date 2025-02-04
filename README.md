@@ -6,7 +6,6 @@
 
 Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and continuously learning new technologies.
 
----
 
 ## 🚀 About Me
 - 💻 **Frontend & Backend Developer**
