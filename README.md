@@ -26,8 +26,8 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imran-information&layout=compact&theme=radical&hide_border=true&border_radius=12)
 
-
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=imran-information)](https://git.io/streak-stats)
+
 ---
 
 ## 🌟 Latest Projects
