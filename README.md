@@ -1,5 +1,5 @@
 # Hi there, I'm Imran! 👋
-![My Professional Banner](https://img.shields.io/badge/Imran%20Developer-Frontend%20%26%20Backend-blue?style=for-the-badge&logo=react&logoColor=white)
+
 Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and continuously learning new technologies.
 
 ---
