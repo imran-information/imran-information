@@ -24,10 +24,9 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imran-information&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&border_radius=12)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imran-information&layout=compact&theme=radical&hide_border=true&border_radius=12)
-
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=imran-information&theme=radical&hide_border=true&border_radius=12)](https://git.io/streak-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imran-information&layout=compact&theme=radical&hide_border=true&border_radius=12)
 
 ---
 
