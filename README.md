@@ -1,21 +1,21 @@
 <div align="center">
-  <img height="" src="https://i.ibb.co.com/5xK5ZcCW/Navy-Blue-Geometric-Technology-Linked-In-Banner.png"  />
+  <img height="320" src="https://i.ibb.co/5xK5ZcCW/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" />
 </div>
-###
-Reach me out
+
+### Reach me out ➡️
 <div align="center">
   <a href="https://www.linkedin.com/in/imran-information/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
   <a href="https://x.com/imran_inf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
   </a>
   <a href="https://www.facebook.com/imran.informations" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook logo" />
   </a>
 </div>
-###
-# Hi there, I'm Imran! 👋
+
+### Hi there, I'm Imran! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and continuously learning new technologies.
 
@@ -56,10 +56,9 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 
 ## 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imran-information)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imran-information/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/imran_inf)
 
 ---
 
 🔥 Thanks for visiting my profile! Stay awesome! 🚀
-
