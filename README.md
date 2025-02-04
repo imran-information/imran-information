@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="200" src="https://i.ibb.co.com/0ypv843s/git-banner.png"  />
+</div>
+
+###
 # Hi there, I'm Imran! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and continuously learning new technologies.
