@@ -1,5 +1,5 @@
 # Hi there, I'm Imran! 👋
-![Banner](https://i.ibb.co/com/kSgZc1P/imran-dp.jpg)
+
 Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and continuously learning new technologies.
 
 ---
