@@ -1,13 +1,13 @@
 # Hi there, I'm Imran! 👋
 
-Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and learning new technologies.
+Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and continuously learning new technologies.
 
 ---
 
 ## 🚀 About Me
-- 💻 Frontend & Backend Developer
-- 🎨 UI/UX Enthusiast
-- 📚 Lifelong Learner
+- 💻 **Frontend & Backend Developer**
+- 🎨 **UI/UX Enthusiast**
+- 📚 **Lifelong Learner**
 
 ---
 
@@ -28,7 +28,6 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imran-information&layout=compact&theme=radical&hide_border=true&border_radius=12&height=200&width=400)
 
-
 ---
 
 ## 🌟 Latest Projects
@@ -43,4 +42,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
+---
+
 🔥 Thanks for visiting my profile! Stay awesome! 🚀
+
