@@ -1,7 +1,7 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/0ypv843s/git-banner.png"  />
+  <img height="" src="https://i.ibb.co.com/5xK5ZcCW/Navy-Blue-Geometric-Technology-Linked-In-Banner.png"  />
 </div>
-
+ 
 ###
 # Hi there, I'm Imran! 👋
 
