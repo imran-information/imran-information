@@ -1,18 +1,21 @@
 <div align="center">
   <img height="" src="https://i.ibb.co/5xK5ZcCW/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" />
 </div>
- 
+
 <h1 align="center">Hi there, I'm Imran Hossain! 👋</h1>
+
 <p>Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and continuously learning new technologies.</p>
+
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<u><h3 align="left">👩‍💻 About Me</h3></u>
 
 ###
 
 <p align="left">I'm Imran, a passionate Frontend & Backend Developer with a keen eye for UI/UX. I love building seamless digital experiences using JavaScript, React, Node.js, and Tailwind CSS. Constantly learning and evolving, I thrive on creating innovative and user-friendly solutions.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
+
 ---
 
 ## 🛠 Technologies & Tools
@@ -33,6 +36,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imran-information&layout=compact&theme=radical&hide_border=true&border_radius=12&height=200&width=400)
 
 ---
+
 ### ➡️ Reach me out 
 <div align="center">
   <a href="https://www.linkedin.com/in/imran-information/" target="_blank">
@@ -45,7 +49,9 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook logo" />
   </a>
 </div>
+
 ---
+
 ## 🌟 Latest Projects
 - 🌐 [Project 1](#)
 - 📱 [Project 2](#)
