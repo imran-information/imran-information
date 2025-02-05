@@ -17,6 +17,8 @@ I'm Imran, a passionate Web Developer with a strong focus on UI/UX and functiona
 <p align="left">
 ✨ Creating bugs since I wrote my first "Hello World" program!
   <br>
+🌍 Working on a **tourism website**, focusing on performance and user experience.
+  <br>
 📚 I'm currently learning advanced Next.js, TypeScript, and performance optimization techniques.  
   <br>
 🎯 Goals: To build high-performance, user-friendly web applications and contribute to open-source projects.  
