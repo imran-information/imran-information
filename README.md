@@ -81,9 +81,8 @@ I'm Imran, a passionate Web Developer with a strong focus on UI/UX and functiona
 
 
 ## 🌟 Latest Projects
-- 🌐 [Project 1](https://medical-camp-management-1b67d.web.app/)
-- 📱 [Project 2](#)
-- 🚀 [Project 3](#)
+- 🌐 [Medical Camp Management](https://medical-camp-management-1b67d.web.app/)
+- 🌐 [Next Generation](https://next-gen-230be.web.app/)
 
 
 ## 📫 Connect with Me
