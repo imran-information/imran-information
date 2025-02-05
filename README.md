@@ -27,7 +27,7 @@ I'm Imran, a passionate Web Developer with a strong focus on UI/UX and functiona
 ###
 
 
-<h2 align="center">🛠 Technologies & Tools</h2>
+<h2 align="">🛠 Technologies & Tools</h2>
 
 ###
 <div align="center">
