@@ -104,4 +104,4 @@ I'm Imran, a passionate Web Developer with a strong focus on UI/UX and functiona
 
 ---
 
-🔥 Thanks for visiting my profile! Stay awesome! 🚀
+<p align='center'>🔥 Thanks for visiting my profile! Stay awesome! 🚀</p>
