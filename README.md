@@ -24,16 +24,11 @@ I'm Imran, a passionate Web Developer with a strong focus on UI/UX and functiona
 🎲 Fun fact: I can spend hours debugging a single line of code, only to realize I missed a semicolon! 😅  
 </p>
 
-
-
 ###
 
 ---
 
-## 🛠 Technologies & Tools
-###
-
-<h2 align="left">I code with</h2>
+<h2 align="center">🛠 Technologies & Tools</h2>
 
 ###
 <div align="center">
