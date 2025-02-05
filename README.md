@@ -9,6 +9,7 @@
 ###
 
 ##<u><h3 align="left">👩‍💻 About Me</h3></u>
+<h2 align="left">About me</h2>
 
 ###
 
