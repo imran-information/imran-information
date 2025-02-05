@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 
 
 ## 🚀 About Me
-- 💻 **Frontend & Backend Developer**
+- 💻 **Frontend Developer**
 - 🎨 **UI/UX Enthusiast**
 - 📚 **Lifelong Learner**
 
