@@ -17,6 +17,9 @@ I'm Imran, a passionate Web Developer with a strong focus on UI/UX and functiona
 <p align="left">
 ✨ Creating bugs since I wrote my first "Hello World" program!
   <br>
+  🔍 Exploring **Next.js** and learning about server-side rendering (SSR) and static site generation (SSG).  
+- 🌍 Working on a **tourism website**, focusing on performance and user experience.
+  <br>
 🌍 Working on a **tourism website**, focusing on performance and user experience.
   <br>
 📚 I'm currently learning advanced Next.js, TypeScript, and performance optimization techniques.  
