@@ -87,9 +87,21 @@ I'm Imran, a passionate Web Developer with a strong focus on UI/UX and functiona
 
 
 ## 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imran-information)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imran-information/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/imran_inf)
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/imran-information/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/imran_inf" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="54" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.facebook.com/imran.informations" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="54" height="40" alt="facebook logo"  />
+  </a>
+</div>
+
+###
 
 ---
 
