@@ -30,6 +30,27 @@ I'm Imran, a passionate Web Developer with a strong focus on UI/UX and functiona
 
 ###
 
+## 🛠 Technologies & Tools  
+
+### **Frontend Development**  
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)  
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)  
+![Tailwind CSS](https://cdn.simpleicons.org/tailwindcss/06B6D4)  
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
+![React.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)  
+![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)  
+![Material UI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg)  
+
+### **Backend Development**  
+![Node.js](https://cdn.simpleicons.org/nodedotjs/339933)  
+![Express.js](https://skillicons.dev/icons?i=express)  
+![MongoDB](https://skillicons.dev/icons?i=mongodb)  
+![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg)  
+
+### **Version Control & Tools**  
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
 
 <h2 align="">🛠 Technologies & Tools</h2>
 
