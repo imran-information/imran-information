@@ -97,6 +97,9 @@ I'm Imran, a passionate Web Developer with a strong focus on UI/UX and functiona
   <a href="https://www.facebook.com/imran.informations" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="54" height="40" alt="facebook logo"  />
   </a>
+  <a href="01868634721" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="54" height="40" alt="whatsapp logo"  />
+  </a>
 </div>
 
 
