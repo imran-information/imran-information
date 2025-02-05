@@ -47,22 +47,6 @@ I'm Imran, a passionate Web Developer with a strong focus on UI/UX and functiona
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imran-information&layout=compact&theme=radical&hide_border=true&border_radius=12&height=200&width=400)
 
----
-
-### ➡️ Reach me out 
-<div align="center">
-  <a href="https://www.linkedin.com/in/imran-information/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
-  </a>
-  <a href="https://x.com/imran_inf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
-  </a>
-  <a href="https://www.facebook.com/imran.informations" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook logo" />
-  </a>
-</div>
-
----
 
 ## 🌟 Latest Projects
 - 🌐 [Project 1](#)
