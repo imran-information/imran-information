@@ -85,7 +85,6 @@ I'm Imran, a passionate Web Developer with a strong focus on UI/UX and functiona
 - 📱 [Project 2](#)
 - 🚀 [Project 3](#)
 
----
 
 ## 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imran-information)
