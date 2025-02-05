@@ -6,10 +6,7 @@
 
 <p>Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and continuously learning new technologies.</p>
 
-###
-
-##<u><h3 align="left">👩‍💻 About Me</h3></u>
-<h2 align="left">About me</h2>
+<h2 align="left">👩‍💻 About me</h2>
 
 ###
 
