@@ -12,7 +12,14 @@
 
 ###
 
-<p align="left">I'm Imran, a passionate Frontend Developer with a keen eye for UI/UX. I love building seamless digital experiences using JavaScript, React, Node.js, and Tailwind CSS. Constantly learning and evolving, I thrive on creating innovative and user-friendly solutions.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+I'm Imran, a passionate Web Developer with a strong focus on UI/UX and functionality. I specialize in building seamless digital experiences using JavaScript, React.js, Next.js, and Tailwind CSS. Additionally, I have expertise in backend development, working with Express.js and MongoDB to create robust and scalable server-side applications. Constantly learning and evolving, I strive to develop innovative and user-friendly solutions that enhance digital interactions.
+<br><br>
+- 🔭 I’m currently working as ...  
+- 📚 I'm expanding my knowledge in ...  
+- ⚡ In my free time, I enjoy ...  
+</p>
+
 
 ###
 
