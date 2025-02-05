@@ -7,11 +7,13 @@
 Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and continuously learning new technologies.
 
 
-## 🚀 About Me
-- 💻 **Frontend Developer**
-- 🎨 **UI/UX Enthusiast**
-- 📚 **Lifelong Learner**
+<h3 align="left">👩‍💻  About Me</h3>
 
+###
+
+<p align="left">I'm Imran, a passionate Frontend & Backend Developer with a keen eye for UI/UX. I love building seamless digital experiences using JavaScript, React, Node.js, and Tailwind CSS. Constantly learning and evolving, I thrive on creating innovative and user-friendly solutions.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+
+###
 ---
 
 ## 🛠 Technologies & Tools
