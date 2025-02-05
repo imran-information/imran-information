@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="" src="https://i.ibb.co/5xK5ZcCW/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" />
+  <img height="" src="https://i.ibb.co.com/9m0y89DW/github-Banner.png" />
 </div>
 
 <h1 align="center">Hi there, I'm Imran Hossain! 👋</h1>
