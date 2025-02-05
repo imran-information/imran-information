@@ -26,7 +26,6 @@ I'm Imran, a passionate Web Developer with a strong focus on UI/UX and functiona
 
 ###
 
----
 
 <h2 align="center">🛠 Technologies & Tools</h2>
 
@@ -56,8 +55,8 @@ I'm Imran, a passionate Web Developer with a strong focus on UI/UX and functiona
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+
 ###
----
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imran-information&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&border_radius=12&height=200&width=400)
