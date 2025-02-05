@@ -61,7 +61,9 @@ I'm Imran, a passionate Web Developer with a strong focus on UI/UX and functiona
 ## 📊 Current Stats
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imran-information&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&border_radius=12&height=200&width=400)
+  <div width='400'>
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imran-information&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&border_radius=12&height=200&width=400)
+  </div>
 
   [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=imran-information&theme=radical&hide_border=true&border_radius=12&height=200&width=400)](https://git.io/streak-stats)
 
