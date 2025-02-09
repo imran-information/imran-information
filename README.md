@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-I'm Imran, a passionate Web Developer with a strong focus on UI/UX and functionality. I specialize in building seamless digital experiences using JavaScript, React.js, Next.js, and Tailwind CSS. Additionally, I have expertise in backend development, working with Express.js and MongoDB to create robust and scalable server-side applications. Constantly learning and evolving, I strive to develop innovative and user-friendly solutions that enhance digital interactions.
+I'm Imran, a passionate MERAN Stack developer with a strong focus on UI/UX and functionality. I specialize in building seamless digital experiences using JavaScript, React.js, Next.js, and Tailwind CSS. Additionally, I have expertise in backend development, working with Express.js and MongoDB to create robust and scalable server-side applications. Constantly learning and evolving, I strive to develop innovative and user-friendly solutions that enhance digital interactions.
 </p>
 
 <p align="left">
