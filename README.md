@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="" src="https://i.ibb.co.com/WvL2Hq5f/github-Banner-1.png" />
+  <img height="" src="[https://i.ibb.co.com/WvL2Hq5f/github-Banner-1.png](https://i.ibb.co/0yfH8TMP/cover-Img.jpg)" />
 </div>
 
 <h1 align="center">Hi there, I'm Imran Hossain! 👋</h1>
